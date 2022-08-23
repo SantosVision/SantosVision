@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building [SantosVision.pro](http://www.santosvision.pro/).<br>🌱 I’m currently learning more about BlockChain/Solidity & Flutter/Dart.<br>👯 I’m looking to collaborate on Youtube.<br>🤔 I’m looking for help with ARCore for Flutter development.<br>💬 Ask me about Python\Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I love to cook and put ingredients together to make a delicious dish. Very similar to coding.
+🔭 I’m currently building [SantosVision.pro](http://www.santosvision.pro/).<br>🌱 I’m currently learning more about Blockchain/Solidity & Flutter/Dart.<br>👯 I’m looking to collaborate on any App development project.<br>🤔 I’m looking for help with ARCore for Flutter development.<br>💬 Ask me about Python\Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I love to cook and put ingredients together to make a delicious dish. Very similar to coding.
 
 
 ## 🌐 Socials:
