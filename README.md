@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning more about cloud computing & data engineering.<br>👯 I’m looking to collaborate on any App/web development project.<br>🤔 I’m looking for help with ARCore for Flutter development.<br>💬 Ask me about Python\Cloud or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I love to cook and put ingredients together to make a delicious dish. Very similar to coding.
+I’m currently learning more about cloud computing & data engineering.<br>👯 I’m looking to collaborate on any App/ML/Cloud development project.<br>🏆 Certified Google Cloud Associate Engineer with a focus to become a ML Engineer in GCP.<br>💬 Ask me about Python\Cloud\Drones\Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I enjoy making people laugh. Also, I love to cook and put ingredients together to make a delicious dish, Very similar to coding if you think about it 😂
 
 
 ## 🌐 Socials:
