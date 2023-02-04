@@ -14,16 +14,16 @@ I’m currently learning more about cloud computing & data engineering.<br>👯 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SantosVision&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
+<!-- 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/_SantosVision_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+ -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+ -->
 ---
 [![](https://visitcount.itsvg.in/api?id=SantosVision&icon=3&color=10)](https://visitcount.itsvg.in)
 
