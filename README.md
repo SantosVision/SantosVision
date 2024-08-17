@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning more about cloud computing & data engineering.<br>👯 I’m looking to collaborate on any App/ML/Cloud development project.<br>🏆 Certified Google Cloud Associate Engineer with a focus to become an ML Engineer in GCP.<br>💬 Ask me about Python\Cloud\Drones\Flutter or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I enjoy making people laugh. Also, I love to cook and put ingredients together to make a delicious dish, which Very similar to coding if you think about it 😂
+I’m currently working on a mobile app.<br>👯 I’m looking to collaborate on anyone who would like to work on mobile and software development project.<br>🏆 Certified Google Cloud Associate Engineer with a focus to become an ML Engineer.<br>💬 Ask me about Python\Cloud\Drones\Flutter or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I enjoy making people laugh. Also, I love to cook and put ingredients together to make a delicious dish, which Very similar to coding if you think about it 😂
 
 
 ## 🌐 Socials:
